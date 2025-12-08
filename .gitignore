@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+
+# Other stuff
+*Zone.Identifier
+__MACOSX/
+lab1.zip
+.DS_Store
+
