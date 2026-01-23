@@ -17,3 +17,7 @@ __MACOSX/
 lab1.zip
 .DS_Store
 
+# Extras
+datasets/
+
+
